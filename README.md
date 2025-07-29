@@ -1,3 +1,3 @@
-It allows user to enter their g-mail. 
-It checks if the g-mail entered is valid or not.
-it gives you the username and the domain name.
+📩 Email Validator in Java
+A simple console-based Java program to check if user input is a valid email using basic string operations.
+
